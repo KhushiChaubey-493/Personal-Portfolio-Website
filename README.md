@@ -58,7 +58,10 @@ No backend server or database is required for the current frontend implementatio
 
 🌐 Live Demo
 
-"View My Portfolio" (https://khushichaubey-493.github.io/Personal-Portfolio-Website/)
+"View My Portfolio" 
+
+https://khushichaubey-493.github.io/Personal-Portfolio-Website/
+
 
 📸 Screenshots
 
